@@ -1,9 +1,5 @@
 # Contributing Guidelines
 
-Thank you for considering contributing to the CUDA C++ Tutorial repository! Your contributions help improve the quality, breadth, and usefulness of this resource for the entire community. Below are guidelines to ensure a smooth and productive collaboration.
-
----
-
 ## How You Can Contribute
 
 ### 1. **Text Edits and Content Suggestions**
