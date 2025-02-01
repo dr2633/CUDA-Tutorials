@@ -1,4 +1,4 @@
-# Introduction to GPU Programming and Parallelizationn
+# Introduction to GPU Programming and Parallelization
 
 # Part 1: From Amdahl's Law to Empirical Scaling Laws 
 
